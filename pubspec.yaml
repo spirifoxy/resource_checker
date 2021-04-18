@@ -1,0 +1,20 @@
+name: resource_checker
+description: Resource checker - given the asset path checks if it is valid
+version: 0.0.1
+author: spirifoxy
+homepage: https://github.com/spirifoxy/resource_checker
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
